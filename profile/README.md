@@ -1,10 +1,9 @@
-# **AIConnect360** - Unlock the Power of AI
+# [**AIConnect360** - Unlock the Power of AI](https://aiconnect360.com/)
 
 Welcome to **AIConnect360**, your gateway to the world of Artificial Intelligence.
 
 ![AIConnect360 Banner](https://aiconnect360.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FAIConnect360-white.f82187eb.png&w=640&q=75)
 
-**Subscribe Now:** Enter your email to receive daily updates.
 
 Unlock the Potential of AI
 ---------------------------
